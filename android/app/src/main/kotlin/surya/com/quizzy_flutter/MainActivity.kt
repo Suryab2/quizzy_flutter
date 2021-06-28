@@ -1,0 +1,6 @@
+package surya.com.quizzy_flutter
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
